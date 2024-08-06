@@ -1,0 +1,10 @@
+# Local settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/recent-files-obsidian/data.json
+
+# SyncThing
+.stversions/
+
+# OS Crap
+.DS_Store
