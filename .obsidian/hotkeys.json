@@ -14,5 +14,11 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
   ]
 }

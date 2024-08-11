@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "slides-override",
+    "slides-presenter-notes"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 17
 }
