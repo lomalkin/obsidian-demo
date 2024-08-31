@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"7652d8fcd66cc016","type":"file","file":"note/Презентация про Obsidian N1.md","x":-200,"y":200,"width":680,"height":760},
+		{"id":"a24670a42da0e98d","type":"text","text":"А тут просто ссылка\n\n[Презентация про Obsidian N2](../note/Презентация%20про%20Obsidian%20N2.md)","x":800,"y":640,"width":340,"height":200},
+		{"id":"be70111451b0b2b5","type":"file","file":"file/lenna.png","x":0,"y":1080,"width":400,"height":400},
+		{"id":"8b7a93a7708914ef","type":"file","file":"note/Афтепати - Вопросы после доклада.md","x":570,"y":1480,"width":1030,"height":560},
+		{"id":"5c8b70da75cb5c0e","type":"text","text":"Ниже встроенная в канвас заметка:","x":-90,"y":60,"width":460,"height":60},
+		{"id":"e89165765217668c","type":"text","text":"Кто я? Чем занимаюсь?","x":1412,"y":170,"width":250,"height":60},
+		{"id":"6c76fe54df3dbcf5","type":"text","text":"Почему важно вести заметки?","x":1412,"y":290,"width":250,"height":60},
+		{"id":"41574750623ea797","type":"text","text":"Инструменты ","x":1412,"y":410,"width":250,"height":60},
+		{"id":"40524f23c4ffadf0","type":"text","text":"# План презентации","x":1360,"y":50,"width":355,"height":60}
+	],
+	"edges":[
+		{"id":"59e46edc4738f55e","fromNode":"e89165765217668c","fromSide":"bottom","toNode":"6c76fe54df3dbcf5","toSide":"top"},
+		{"id":"192e46c92b32f72c","fromNode":"6c76fe54df3dbcf5","fromSide":"bottom","toNode":"41574750623ea797","toSide":"top"},
+		{"id":"5fee85db76e0c240","fromNode":"7652d8fcd66cc016","fromSide":"right","toNode":"a24670a42da0e98d","toSide":"left"},
+		{"id":"ace48bbb82ae6e04","fromNode":"be70111451b0b2b5","fromSide":"right","toNode":"8b7a93a7708914ef","toSide":"top"}
+	]
+}
